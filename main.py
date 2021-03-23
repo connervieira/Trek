@@ -139,6 +139,9 @@ while True: # Run forever until the user enters a valid year
 dt = datetime.date(year, month, day) # Combine the entered day, month, and year into a single variable.
 end_timestamp = int(time.mktime(dt.timetuple())) # Convert the date to a Unix timestamp.
 
+if (start_timestamp >= end_timestamp):
+    print("Error: The ending date you entered is earlier than the starting date!")
+    exit()
 
 day_difference = int((end_timestamp - start_timestamp)/86400) # Calculate how many days span between the starting date and ending date. 86400 is the number of seconds in a day.
 
@@ -179,7 +182,6 @@ for value in range(0, day_difference): # Iterate through each day in the span of
     for element in clean_data: # Iterate through the data and count up samples that start on the current day.
        if ((element[0] >= (value*86400)+start_timestamp) and (element[0] <= (value*86400)+start_timestamp+86399)):
             total_daily_steps = total_daily_steps + int(element[1])
-            print(element[1])
     daily_data.append([[value], [total_daily_steps]])
 
 

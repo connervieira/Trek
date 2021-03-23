@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512mm"
+   height="512mm"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="logo.svg"
+   inkscape:export-filename="/home/cvieira/bitmap.png"
+   inkscape:export-xdpi="32"
+   inkscape:export-ydpi="32">
+  <title
+     id="title815">Trek Logo</title>
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient844"
+       osb:paint="gradient">
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1;"
+         offset="0"
+         id="stop840" />
+      <stop
+         id="stop854"
+         offset="0.52777761"
+         style="stop-color:#ffff00;stop-opacity:1" />
+      <stop
+         style="stop-color:#00ff00;stop-opacity:1"
+         offset="1"
+         id="stop842" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient844"
+       id="linearGradient852"
+       gradientUnits="userSpaceOnUse"
+       x1="55.940475"
+       y1="52.071445"
+       x2="464.91071"
+       y2="-180.00594"
+       gradientTransform="matrix(1.1472991,0,0,1.1362589,-43.741289,40.671942)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-1269.588"
+     inkscape:cy="592.22497"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     inkscape:window-width="3416"
+     inkscape:window-height="1352"
+     inkscape:window-x="12"
+     inkscape:window-y="39"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Trek Logo</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Conner Vieira</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Background">
+    <path
+       style="opacity:1;fill:#969696;fill-opacity:1;stroke:#969696;stroke-width:30.00000191;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       d="m 38.294596,425.92479 c 0,-9.63251 -0.150145,-36.75936 -0.333654,-60.28195 l -0.333653,-42.76833 14.264525,-11.84382 c 7.845484,-6.51409 14.596479,-11.92788 15.002198,-12.03064 0.405731,-0.10272 7.51427,4.05416 15.796771,9.23758 l 15.059093,9.4244 26.502114,-13.96487 c 14.57617,-7.68069 26.83734,-14.2404 27.24705,-14.57716 0.4097,-0.33675 7.70804,-12.49037 16.21853,-27.00803 8.5105,-14.51766 15.71629,-26.39575 16.01285,-26.39575 0.29658,0 4.67796,2.05287 9.73642,4.56195 l 9.19719,4.56194 34.26876,-9.76178 34.26877,-9.76179 15.83067,9.50349 c 14.81258,8.8923 15.88443,9.43178 16.66682,8.38855 0.62872,-0.83831 57.64648,-81.96965 58.07318,-82.63312 0.046,-0.0715 4.79942,0.32292 10.56318,0.87646 l 10.47962,1.00644 32.72734,-19.34555 c 18.00003,-10.64004 33.73146,-19.9698 34.95872,-20.73281 1.22724,-0.76301 6.60871,-6.49869 11.95886,-12.74596 l 9.72752,-11.358676 0.37447,59.154266 c 0.20596,32.53485 0.58622,110.19654 0.84504,172.5815 l 0.47057,113.42725 H 256.08608 38.294596 Z"
+       id="GrayBackground"
+       inkscape:connector-curvature="0"
+       inkscape:label="#graybackground">
+      <title
+         id="title872">GrayBackground</title>
+    </path>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Graph">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:30.00000191;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 20.565518,460.86139 H 491.51129"
+       id="Floor"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:label="#floor">
+      <title
+         id="title878">Floor</title>
+    </path>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:30.00000191;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 20.439167,314.83859 0.12635,146.0228"
+       id="LeftWall"
+       inkscape:connector-curvature="0"
+       inkscape:label="#leftwall">
+      <title
+         id="title880">LeftWall</title>
+    </path>
+    <path
+       style="fill:#666666;stroke:#000000;stroke-width:30.00000191;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 489.65036,51.138603 1.86093,409.722787"
+       id="RightWall"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:label="#rightwall">
+      <title
+         id="title876">RightWall</title>
+    </path>
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,215)">
+    <path
+       style="fill:none;stroke:url(#linearGradient852);stroke-width:30.00000191;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 20.439167,99.838584 45.099782,-37.794143 32.957532,20.614983 40.763259,-21.473938 37.29405,-63.5628616 27.75372,13.7433186 69.38427,-19.7560226 24.28451,14.60228 55.50741,-79.0241024 25.15181,2.576873 62.44586,-36.935171 48.56899,-56.69121"
+       id="RainbowLine"
+       inkscape:connector-curvature="0"
+       inkscape:label="#rainbowline">
+      <title
+         id="title874">RainbowLine</title>
+    </path>
+  </g>
+</svg>

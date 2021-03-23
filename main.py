@@ -7,7 +7,7 @@
 # ----- Configuration -----
 
 # Generate an API key in HealthBox with 'app' permissions and access to metric A1 (Steps), then input it here as a string. If this variable is left blank, Trek will ask you to enter your API key every time you run the program.
-default_apikey = "1d760266f5fc4f96a91749cb60ee2f4c"
+default_apikey = ""
 
 # Enter the host address and port of your HealthBox instance here. For example, if you host HealthBox locally on the default port, enter `localhost:5050`. If this variable is left blank, Trek will ask you to enter your HealthBox server information every time you run the program.
 default_server = "localhost:5050"
